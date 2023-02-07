@@ -1,6 +1,6 @@
 
 
 <h2 align="center">
-  <img src="story.png" />
+  <img src="story.jpg" />
 </h2>
 
