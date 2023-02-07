@@ -4,3 +4,6 @@
   <img src="story.jpg" />
 </h2>
 
+<!---
+edit by tranghane
+-->
