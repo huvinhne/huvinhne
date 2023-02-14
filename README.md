@@ -7,3 +7,6 @@
 <!---
 edit by tranghane owned by tranghane
 -->
+<p align="center">
+  <img src="quote2.png" />
+</p>
